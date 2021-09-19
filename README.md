@@ -1,6 +1,8 @@
 # React.js Notes App
 Simple ToDo/Notes React.js App made using React Hooks and JSON Placeholder REST API.
 
+## Try it: https://enjirouz.github.io/react-js-notes-app/
+
 App provides you to create/remove simple text notes:
 
 ![App](https://user-images.githubusercontent.com/26218291/133924295-23b2610b-6f5a-45ac-8d24-dfc4dea67318.png)
